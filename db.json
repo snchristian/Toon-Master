@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the youngest sibling of the Bob's Burger family",
+      "answers": [
+        "Gene",
+        "Tina",
+        "Louise",
+        "Dina"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 2,
+      "question": "What is the hair color of Marge Simpson",
+      "answers": [
+        "Blue",
+        "Cyan",
+        "Turquoise",
+        "Pink"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 3,
+      "question": "Which one of these is not a song from Titians Go",
+      "answers": [
+        "Hard!",
+        "Catchin Villains",
+        "Binary Code",
+        "Bad Stuff Happens in the bathroom"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 4,
+      "question": "What is the name of Honey's Owner",
+      "answers": [
+        "Tabitha",
+        "Jill",
+        "Big Cookie",
+        "Lindsay"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 5,
+      "question": "Which one of these are one of Rogers Personas",
+      "answers": [
+        "Jeannie Sliver",
+        "Martin Plum",
+        "Dr.Penquin",
+        "Ricky Spam"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 6,
+      "question": "Which one of these is not a Burger of the Day",
+      "answers": [
+        "She's A Super Leek Burger",
+        "Tunami",
+        "Hit Me With Your Best Shallot Burger",
+        "Sunny Side Up in Spring Burger"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 7,
+      "question": "Who is the principal at steve's school",
+      "answers": [
+        "Brain Lewis",
+        "Barry Robinaon",
+        "Toshi Yoshia",
+        "Avery Bullock"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 8,
+      "question": "What is the species of Linsday on HouseBroken",
+      "answers": [
+        "Dog",
+        "Cat",
+        "Shoe",
+        "Hamster"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 9,
+      "question": "What is Lisa Simspons IQ",
+      "answers": [
+        "159",
+        "130",
+        "80",
+        "170"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 10,
+      "question": "Who is Hailey Smith Husband",
+      "answers": [
+        "Kalus",
+        "Reginald",
+        "Avery",
+        "Jeff"
+      ],
+      "correctAnswer": "3"
+    } 
+  ]
+}
